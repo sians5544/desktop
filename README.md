@@ -58,7 +58,6 @@ Hotels API를 이용하여 다음 기능을 제공한다.
 ![20220310_190638](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=black)
 ![20220310_190638](https://img.shields.io/badge/netlify-7fffd4?style=for-the-badge&logo=netlify&logoColor=black)
 ![20220310_190638](https://img.shields.io/badge/swr-white?style=for-the-badge&logo=swr&logoColor=9cg)
-![20220310_190638](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase&logoColor=9cg)
 
 <br/>
 
