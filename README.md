@@ -45,6 +45,8 @@ Hotels API를 이용하여 다음 기능을 제공한다.
 
 ### 사용 기술
 
+<hr>
+
 ![20220310_190638](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=9cg)
 ![20220310_190638](https://img.shields.io/badge/redux-white?style=for-the-badge&logo=redux&logoColor=blueviolet)
 ![20220310_190638](https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript&logoColor=black)
@@ -63,6 +65,7 @@ Hotels API를 이용하여 다음 기능을 제공한다.
 ### git convention
 
 <hr>
+
 <table>
 <thead>
 <tr>
@@ -113,6 +116,7 @@ Hotels API를 이용하여 다음 기능을 제공한다.
 ### 팀구성
 
 <hr>
+
 <table>
 <thead>
 <tr>
