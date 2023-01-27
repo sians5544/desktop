@@ -127,10 +127,10 @@ Hotels API를 이용하여 다음 기능을 제공한다.
 </thead>
 <tbody>
 <tr>
-<td align="center"><a href="https://github.com/hustle-dev">@parksaneon</a></td>
-<td align="center"><a href="https://github.com/jhyj0521">@sians5544</a></td>
-<td align="center"><a href="https://github.com/hanana1253">@ktmihs</a></td>
-<td align="center"><a href="https://github.com/hhhyyo">@hann3</a></td>
+<td align="center"><a href="https://github.com/parksaneon">@parksaneon</a></td>
+<td align="center"><a href="https://github.com/sians5544">@sians5544</a></td>
+<td align="center"><a href="https://github.com/ktmihs">@ktmihs</a></td>
+<td align="center"><a href="https://github.com/hann3">@hann3</a></td>
 </tr>
 <tr>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://avatars.githubusercontent.com/parksaneon"><img src="https://avatars.githubusercontent.com/parksaneon" width="100" style="max-width: 100%;"></a></td>
